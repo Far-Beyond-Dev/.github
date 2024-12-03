@@ -14,5 +14,5 @@ Some of these include:
 
 -- And many, many more --
 
-  ## See all out repos
+  ## See all our repos
   If you want to see a list of all our projects, head over to the Repositories tab!
